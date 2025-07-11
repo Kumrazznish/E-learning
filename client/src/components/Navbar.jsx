@@ -71,9 +71,7 @@ const Navbar = () => {
                 <DropdownMenuLabel>My Account</DropdownMenuLabel>
                 <DropdownMenuSeparator />
                 <DropdownMenuGroup>
-                  <DropdownMenuItem>
-                    <Link to="my-learning">My learning</Link>
-                  </DropdownMenuItem>
+                  
                   <DropdownMenuItem>
                     {" "}
                     <Link to="profile">Edit Profile</Link>{" "}
